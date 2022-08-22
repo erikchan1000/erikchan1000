@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, python, data analysis, and fintech!**
 
-- 📫 How to reach me **chanerik1000@gmail.com**
+- 📫 How to reach me: **chanerik1000@gmail.com**
 
 - ⚡ Fun fact **I used to be on a dance team and I love keeping up to date with ground breaking tech!**
 
