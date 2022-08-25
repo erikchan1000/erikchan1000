@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 <h3 align="center">A passionate full stack developer and recent graduate from University of California, Riverside. I am currently pursuing a career as a SWE!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erikchan1000&rank=B" alt="erikchan1000" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erikchan1000&rank=A&B" alt="erikchan1000" /></a> </p>
 
 - 🔭 I’m currently working on [a pharmacy website and multiple other webapps for personal uses and clients!](https://www.parkcompounding.com/)
 
