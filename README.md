@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **chanerik1000@gmail.com**
 
-- ⚡ Fun fact **I used to be on a dance team and I love keeping up to date with ground breaking tech (like advancements in Elon Musk's nearullink)!**
+- ⚡ Fun fact **I used to be on a dance team and I love keeping up to date with ground breaking tech (like advancements in Elon Musk's neural link)!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
