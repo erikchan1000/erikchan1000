@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
-<h3 align="center">A passionate full stack developer and recent graduate from University of California, Riverside. I am currently pursuing a career as a SWE!</h3>
+<h3 align="center">A passionate full stack developer and recent graduate from University of California, Riverside. Full Stack developer at Stackline</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erikchan1000" alt="erikchan1000" /></a> </p>
 
-- 🔭 I’m currently working on [a pharmacy website and multiple other webapps for personal uses and clients!](https://www.parkcompounding.com/)
+- 🔭 I’m currently working on []
 
-- 🌱 I’m currently learning **Frameworks (Fresh), Babel, amplify, TailWindCSS, Javascript, Algorithms, Data Structures**
+- 🌱 I’m currently learning **LLM's, Machine Learning, Audio Classification, and Stable Diffusion models**
 
-- 💬 Ask me about **react, python, data analysis, and fintech!**
+- 💬 Ask me about **Rust, Design Patterns, and my throughts on the limitiations of LLM's**
 
-- 📫 How to reach me: **chanerik1000@gmail.com**
+- 📫 How to reach me: **erikchan1010@gmail.com**
 
 - ⚡ Fun fact **I used to be on a dance team and I love keeping up to date with ground breaking tech (like advancements in Elon Musk's neural link)!**
 
