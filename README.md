@@ -3,15 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erikchan1000" alt="erikchan1000" /></a> </p>
 
-- 🔭 I’m currently working on **audio classification models, custom graphics renderer (rust), mini operating system (rust)**
-
-- 🌱 I’m currently learning **LLM's, Machine Learning, Audio Classification, and Stable Diffusion models**
-
-- 💬 Ask me about **Rust, Design Patterns, and my throughts on the limitiations of LLM's**
+- 🔭 I’m currently working on **AI Trading Platform, custom graphics renderer (rust), mini operating system (rust)**
 
 - 📫 How to reach me: **erikchan1010@gmail.com**
 
-- ⚡ Fun fact **I used to be on a dance team and I love keeping up to date with ground breaking tech (like advancements in Elon Musk's neural link)!**
+- ⚡ Fun fact **I used to be on a dance team!**
+- "Don't mistake Artificial Intelligence for real intelligence" - Erik Chan
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
