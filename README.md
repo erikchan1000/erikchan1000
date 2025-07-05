@@ -8,7 +8,7 @@
 - 📫 How to reach me: **erikchan1010@gmail.com**
 
 - ⚡ Fun fact **I used to be on a dance team!**
-- "Don't mistake Artificial Intelligence for real intelligence" - Erik Chan
+- **"Don't mistake Artificial Intelligence for real intelligence" - Erik Chan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
