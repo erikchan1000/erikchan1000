@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 <h3 align="center">A passionate Full Stack developer at Stackline</h3>
 
-- 🔭 I’m currently working on **AI Trading Platform, custom graphics renderer (rust), mini operating system (rust)**
+- 🔭 I’m currently working on **HealthTech Stealth Startup, Agentic Coding Harness, Prediction Market Quant Models**
 
 - 📫 How to reach me: **erikchan1010@gmail.com**
 
