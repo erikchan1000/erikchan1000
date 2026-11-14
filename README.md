@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
-<h3 align="center">A passionate Full Stack developer at Stackline</h3>
-
-- 🔭 I’m currently working on **HealthTech Stealth Startup, Agentic Coding Harness, Prediction Market Quant Models**
+<h3 align="center">Co-Founder of Chartflow</h3>
 
 - 📫 How to reach me: **erikchan1010@gmail.com**
-
-- ⚡ Fun fact **I used to be on a dance team!**
-- **"Don't mistake Artificial Intelligence for real intelligence" - Erik Chan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
