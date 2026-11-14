@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
-<h3 align="center">Co-Founder of Chartflow</h3>
+<h3 align="center">Co-Founder & CTO of <a href="https://chartflow.health">Chartflow</a></h3>
 
-- 📫 How to reach me: **erikchan1010@gmail.com**
+I'm building **Chartflow**, an AI-powered EHR for home health agencies: ambient AI scribe, OASIS charting, scheduling, orders and chart review, with AI agents doing the paperwork so clinicians can focus on patients.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/erikchan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erikchan01" height="30" width="40" /></a>
-</p>
+- 🛠️ **Stack:** TypeScript (Fastify, Next.js), Python, Flutter, PostgreSQL, Google Cloud, Vertex AI, Terraform
+- 🔒 **Focus:** clinical AI workflows, HIPAA-grade infrastructure, EHR interoperability
+- 📫 **Reach me:** erikchan1010@gmail.com · [LinkedIn](https://linkedin.com/in/erikchan01)
